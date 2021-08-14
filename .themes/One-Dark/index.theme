@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=oomox-baloon-dark
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=oomox-baloon-dark
+MetacityTheme=oomox-baloon-dark
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
